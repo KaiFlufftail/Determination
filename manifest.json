@@ -5,7 +5,6 @@
   "readme": "README.md",
   "usercss": "user.css",
   "schemes": "color.ini",
-  "include": ["select-sound.js"],
   "authors": [
     { "name": "kai", "url": "https://github.com/KaiFlufftail" }
   ],
