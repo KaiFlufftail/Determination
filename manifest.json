@@ -1,0 +1,13 @@
+{
+  "name": "Determination",
+  "description": "Undertale black-and-white theme. Determination Mono font, red Soul cursor and progress handle, hard-edged text-box borders, and a menu select sound that plays only while music is stopped.",
+  "preview": "preview.png",
+  "readme": "README.md",
+  "usercss": "user.css",
+  "schemes": "color.ini",
+  "include": ["select-sound.js"],
+  "authors": [
+    { "name": "kai", "url": "https://github.com/KaiFlufftail" }
+  ],
+  "tags": ["undertale", "monochrome", "black", "pixel", "minimal"]
+}
