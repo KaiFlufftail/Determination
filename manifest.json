@@ -5,6 +5,7 @@
   "readme": "README.md",
   "usercss": "user.css",
   "schemes": "color.ini",
+  "include": ["https://cdn.jsdelivr.net/gh/KaiFlufftail/Determination@main/select-sound.js"],
   "authors": [
     { "name": "kai", "url": "https://github.com/KaiFlufftail" }
   ],
